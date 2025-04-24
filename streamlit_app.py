@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+st.title("Dudung dan Maman asal Citaman")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "aku cinta wow spaghetti, indomie seblak, dan tori miso, aku cinta greenhouse effect dan tame impale"
 )
