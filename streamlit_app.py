@@ -5,4 +5,4 @@ st.write("FINALE : Take care of yourself."
 )
 
 
-st.image("view/IMG_9206.jpeg")
+st.image("view/https://github.com/literalnansensu/Mutiara/blob/main/views/IMG_9206.jpeg")
