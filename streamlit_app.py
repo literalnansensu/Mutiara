@@ -5,4 +5,4 @@ st.write("FINALE : Take care of yourself."
 )
 
 
-st.image("views/IMG_9206.jpeg")
+st.image("views/views/54d12abd-0cf9-4653-8f5f-6027cd197aeb.jpeg")
