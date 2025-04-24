@@ -7,4 +7,4 @@ st.write(
 st.write(
   "I need you."
 )
-st.image("views/views/IMG_2881.jpeg")
+st.image("views/IMG_2881.jpeg")
